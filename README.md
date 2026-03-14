@@ -5,7 +5,7 @@ Smart Waste Management System
 1.Aiswarya V A[SCHOOL OF ENGINEERING CUSAT]
 2.Devapriya S[SCHOOL OF ENGINEERING]
 3.Bhavya[SCHOOL OF ENGINEERING]
-#Hosted project link:https://aishu-200.github.io/smart-waste-management
+#Hosted project link:https://smart-waste-management-sable.vercel.app
 🌍 Project Overview
 The Smart Waste Management System is a web-based dashboard designed to monitor waste bins across a city. It helps authorities track bin levels, detect when bins are nearly full, and plan efficient garbage collection routes.
 This project simulates a smart city waste monitoring system using interactive bins, alerts, and route generation.
